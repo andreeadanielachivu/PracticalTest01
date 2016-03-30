@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">PracticalTest01</string>
+    <string name="action_settings">Settings</string>
+    <string name="left_edit"></string>
+    <string name="right_edit"></string>
+    <string name="leftBtn">Press me</string>
+    <string name="rightBtn">Press me, too</string>
+    <string name="title_activity_practical_test01_secondary">PracticalTest01SecondaryActivity
+    </string>
+    <string name="counterView" />
+    <string name="okBtn">OK</string>
+    <string name="cancelBtn">Cancel</string>
+    <string name="goToSecond">Navigate To Secondary</string>
+</resources>
